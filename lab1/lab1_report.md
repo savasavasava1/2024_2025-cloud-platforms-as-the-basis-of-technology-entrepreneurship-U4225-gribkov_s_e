@@ -27,6 +27,7 @@
 ![image](https://github.com/user-attachments/assets/a769506c-4c49-4276-994e-e9bd226e0ce4)
 
 6) Поменял права доступа для service account с Storage Admin на Compute Viewer, попробовал повторить пункт с копированием данных
+7) 
 ![image](https://github.com/user-attachments/assets/03e5ab23-203a-4ff7-a225-b0fd1231b9cb)
 ![image](https://github.com/user-attachments/assets/3feca786-9757-4546-ad9e-d853ee75c721)
 ## Итог: Скопировать файлы не удалось
