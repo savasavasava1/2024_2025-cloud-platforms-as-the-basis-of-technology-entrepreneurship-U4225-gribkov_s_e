@@ -27,8 +27,8 @@
 ![image](https://github.com/user-attachments/assets/dd58558c-157e-4515-94fe-eb2d57b171cb)
 
 5) Ссылки для публичного просмотра
-
 https://storage.googleapis.com/sgribkov-bucket/loss/loss1.PNG
 https://storage.googleapis.com/sgribkov-bucket/loss/loss2.PNG
 https://storage.googleapis.com/sgribkov-bucket/loss/loss3.PNG
 https://storage.googleapis.com/sgribkov-bucket/loss/loss4.PNG
+______________________________________________________________
