@@ -28,7 +28,10 @@
 
 5) Ссылки для публичного просмотра
 https://storage.googleapis.com/sgribkov-bucket/loss/loss1.PNG
+
 https://storage.googleapis.com/sgribkov-bucket/loss/loss2.PNG
+
 https://storage.googleapis.com/sgribkov-bucket/loss/loss3.PNG
+
 https://storage.googleapis.com/sgribkov-bucket/loss/loss4.PNG
 ______________________________________________________________
