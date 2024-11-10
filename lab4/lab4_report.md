@@ -48,13 +48,31 @@
 
 ## Расходы на содержание:
 ### Начальное состояние
-| Элемент | Содержание | Прайсинг ($/мес 
+| Элемент | Содержание | Прайсинг ($/мес) 
 | ------------- | ------------- | -------------
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Безопасность  | IAM-роли  | free
+| VM Google Cloud  | Virtual CPUs:1 Mem: 4GB  | `34`
+| Логирование  | GrayLog: Start sub  | `12`
+| SQL DB  | PostgreSQL: Single node cluster  | `10`
+| NoSQL DB  | MongoDB | free
+| AI модуль  | Cloud GPU NVidia T4  | `30`
+
 ### Тестирование
+| Элемент | Содержание | Прайсинг ($/мес) 
+| ------------- | ------------- | -------------
+| Безопасность  | GKE Autopilot vCPU  | `20`
+| VM Google Cloud  | Virtual CPUs:2 Mem: 8GB  | `69`
+| Логирование  | GrayLog: Advanced Sub  | `32`
+| SQL DB  | PostgreSQL High availability clusters | `60`
+| NoSQL DB  | MongoDB Dedicated | `20`
+| AI модуль  | Cloud GPU NVidia L4  | `60`
+
 ### Продовое решение
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Элемент | Содержание | Прайсинг ($/мес) 
+| ------------- | ------------- | -------------
+| Безопасность  | GKE Autopilot vCPU  | `50`
+| VM Google Cloud  | Virtual CPUs:4 Mem: 16GB  | `138`
+| Логирование  | GrayLog: Custom Sub  | `50`
+| SQL DB  | PostgreSQL High availability clusters | `100`
+| NoSQL DB  | MongoDB Serverless | `50`
+| AI модуль  | Cloud GPU NVidia L4 (increase vCPUs)  | `250`
