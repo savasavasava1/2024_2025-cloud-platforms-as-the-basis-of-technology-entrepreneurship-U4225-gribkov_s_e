@@ -27,13 +27,17 @@
 
 2) Анализ метрик
 Метрики показывают различные стандартные параметры сервиса, а именно: число запросов, задержка запросов, подсчет инстанций сервиса, сколько памяти использует сервиса и пр.
-![image](https://github.com/user-attachments/assets/4e87b2ac-4d1e-4a21-8912-3374bae639ac)
-![image](https://github.com/user-attachments/assets/07a76625-b74c-44ac-a8dd-a271dc525e95)
-![image](https://github.com/user-attachments/assets/49eb7f70-5bb1-4777-aa89-3d516299dbb2)
+![image](https://github.com/user-attachments/assets/ae144c2c-f18c-49d2-aa5f-aec29c9724f9)
+![image](https://github.com/user-attachments/assets/1f37e849-5d25-4d37-8b9c-3f4e24f45ea4)
 
 
 3) Поменял порт на 8090
-![image](https://github.com/user-attachments/assets/c4cbb032-b29c-4ea9-8288-de22bf167c41)
+![image](https://github.com/user-attachments/assets/e4cedeb0-2f1c-4b46-879e-7ebc514db571)
+Проверил по логам и метрикам - Контейнер снова успешно запустился, логи показывают операцию ReplaceService, то есть Cloud Run заменяет старый сервис на новый с обновленными конфигурациями (новый порт 8090)
+![image](https://github.com/user-attachments/assets/547adf1b-7d29-4981-9ad9-b33649550e88)
+
+4) Равномерно распределил трафик в пропорции 50/50 между двумя портами
+![image](https://github.com/user-attachments/assets/7f91a240-7dba-4ff8-89cf-0d9056d35ccf)
 
 
 7) Произвел очистку и удалил VM
