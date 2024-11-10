@@ -56,6 +56,7 @@
 | SQL DB  | PostgreSQL: Single node cluster  | `10`
 | NoSQL DB  | MongoDB | free
 | AI модуль  | Cloud GPU NVidia T4  | `30`
+| **Total** |  | **86** 
 
 ### Тестирование
 | Элемент | Содержание | Прайсинг ($/мес) 
@@ -66,6 +67,7 @@
 | SQL DB  | PostgreSQL High availability clusters | `60`
 | NoSQL DB  | MongoDB Dedicated | `20`
 | AI модуль  | Cloud GPU NVidia L4  | `60`
+| **Total** |  | **271** 
 
 ### Продовое решение
 | Элемент | Содержание | Прайсинг ($/мес) 
@@ -76,3 +78,4 @@
 | SQL DB  | PostgreSQL High availability clusters | `100`
 | NoSQL DB  | MongoDB Serverless | `50`
 | AI модуль  | Cloud GPU NVidia L4 (increase vCPUs)  | `250`
+| **Total** |  | **638** 
