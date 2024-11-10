@@ -42,3 +42,15 @@
 15. Оптимизация работы
     - CDN доставка контента
     - Настройка кэширования
+    
+## Набросок инфраструктуры:
+![image](https://github.com/user-attachments/assets/ed233c68-edb3-4320-916b-f725c6c54944)
+
+## Расходы на содержание:
+### Начальное состояние
+### Тестирование
+### Продовое решение
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
